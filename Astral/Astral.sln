@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astral", "Astral\Astral.csproj", "{ABA43025-0B87-4FB2-B7D1-6BD869137843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "librecord", "librecord\librecord.csproj", "{57143581-B575-4682-824A-67A3D2F9E9AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABA43025-0B87-4FB2-B7D1-6BD869137843}.Debug|x64.ActiveCfg = Debug|x64
+		{ABA43025-0B87-4FB2-B7D1-6BD869137843}.Debug|x64.Build.0 = Debug|x64
+		{ABA43025-0B87-4FB2-B7D1-6BD869137843}.Release|x64.ActiveCfg = Release|x64
+		{ABA43025-0B87-4FB2-B7D1-6BD869137843}.Release|x64.Build.0 = Release|x64
+		{57143581-B575-4682-824A-67A3D2F9E9AC}.Debug|x64.ActiveCfg = Debug|x64
+		{57143581-B575-4682-824A-67A3D2F9E9AC}.Debug|x64.Build.0 = Debug|x64
+		{57143581-B575-4682-824A-67A3D2F9E9AC}.Release|x64.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF53B4E2-E7A6-4225-A4C2-10DC895903E3}
+	EndGlobalSection
+EndGlobal
